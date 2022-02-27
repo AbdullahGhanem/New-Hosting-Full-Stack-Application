@@ -4,5 +4,5 @@ Pipeline Status (main Branch):
 
 ### Access Website
 
-* forntend url: http://ghanem-udagram.s3-website.us-east-2.amazonaws.com/home .
+* forntend url: http://ghanem-de.s3-website-us-east-1.amazonaws.com .
 * API url: http://udagram-api-dev.eba-79u4g3aw.us-east-1.elasticbeanstalk.com.
