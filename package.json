@@ -1,0 +1,13 @@
+{
+    "name": "ghanem",
+    "scripts": {
+        "frontend:install": "cd udagram-frontend && npm install && cd ..",
+        "frontend:deploy": "cd udagram-frontend && npm run deploy && cd ..",
+        "frontend:build": "cd udagram-frontend && npm run build && cd ..",
+        "frontend:test": "cd udagram-frontend && npm run test && cd ..",
+        "api:install": "cd udagram-api && npm install && cd ..",
+        "api:build": "cd udagram-api && npm run build && cd ..",
+        "api:deploy": "cd udagram-api && npm run deploy && cd .."
+    },
+    "devDependencies": {}
+}
